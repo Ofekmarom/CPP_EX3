@@ -108,6 +108,7 @@ getCities(); - מחזיר את הערים של השחקן
 
 ספריות שהשתמשתי:
 <iostream> , <vector> , <cstdlib> , <ctime> , <algorithm> , <string> , <stdexcept> , <map> 
+iostream , vector , cstdlib , ctime , algorithm , string ,  stdexcept , map
 
 
 ###הרצת התוכנית:
